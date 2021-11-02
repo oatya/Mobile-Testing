@@ -6,7 +6,7 @@ I've done this school project at Codecool's tester course.
 
 Mobile apps are taking over the world, and since mobiles are in everybody’s pocket, therefore all the apps are on our phones are just within reach as well.
 We are using our phones a lot daily, and we expect our apps' quality to be just as high as any web app or embedded systems.
-The system under test this week was the mobile application of IMDb. Our challenge as a QA team in this project was to test all the features listed in the tasks.
+The system under test was the mobile application of IMDb. Our challenge as a QA team in this project was to test all the features listed in the tasks.
 
 ## Tasks
 
